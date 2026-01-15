@@ -1,7 +1,9 @@
-# Flujo de control de proyectos
-_Regulus Divulgación (ejemplo anonimizando)_
+# CASO DE ÉXITO: Base de datos del proyecto educativo Regulus Divulgación (ejemplo anonimizando)
 
-Este repositorio presenta un **ejemplo de control de flujo y gestión de actividades** utilizado en el proyecto *Régulus Divulgación*. El objetivo es mostrar la **estructura de datos**, la lógica de seguimiento y la organización operativa de un proyecto de divulgación científica, sin exponer información sensible. Los datos incluidos son **ficticios y anonimizados**, pero conservan la **estructura, relaciones y dinámica** del flujo real de trabajo.
+## Contexto
+**Regulus Divulgación** es un proyecto personal de divulgación científica creado en **julio de 2024**, enfocado principalmente en **talleres en línea de matemáticas y astronomía**. Desde su creación, ha impartido **talleres de forma mensual hasta la actualidad**, con el objetivo de acercar el conocimiento científico a públicos diversos, fomentar el pensamiento crítico y vocaciones científicas a jóvenes estudiantes. Se busca que aprender sea una experiencia cercana, clara y estimulante.
+
+Este repositorio presenta un **ejemplo de control de flujo y gestión de actividades** utilizado en el proyecto *Regulus Divulgación*. El objetivo es mostrar la **estructura de datos**, la lógica de seguimiento y la organización operativa de un proyecto de divulgación científica, sin exponer información sensible (seguridad de datos). Los datos incluidos son **ficticios y anonimizados**, pero conservan la **estructura, relaciones y dinámica** del flujo real de trabajo.
 
 ---
 
