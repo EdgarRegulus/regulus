@@ -3,6 +3,8 @@
 ## Contexto
 **Regulus Divulgación** es un proyecto personal de divulgación científica creado en **julio de 2024**, enfocado principalmente en **talleres en línea de matemáticas y astronomía**. Desde su creación, ha impartido **talleres de forma mensual hasta la actualidad**, con el objetivo de acercar el conocimiento científico a públicos diversos, fomentar el pensamiento crítico y vocaciones científicas a jóvenes estudiantes. Se busca que aprender sea una experiencia cercana, clara y estimulante.
 
+La **Comunidad Regolita** es el nombre con el que se identifica a las personas que se registran y participan en los talleres de **Régulus Divulgación**. El término hace referencia al *regolito*, el material que cubre la superficie de cuerpos como la Luna o Marte. Este concepto representa a una comunidad en crecimiento, formada por personas curiosas que exploran el conocimiento paso a paso y que son invitadas a **continuar registrándose en futuros talleres**, fortaleciendo su formación y su vínculo con la ciencia.
+
 Este repositorio presenta un **ejemplo de control de flujo y gestión de actividades** utilizado en el proyecto *Regulus Divulgación*. El objetivo es mostrar la **estructura de datos**, la lógica de seguimiento y la organización operativa de un proyecto de divulgación científica, sin exponer información sensible (seguridad de datos). Los datos incluidos son **ficticios y anonimizados**, pero conservan la **estructura, relaciones y dinámica** del flujo real de trabajo.
 
 ---
