@@ -185,7 +185,7 @@ Presenta un **gráfico de barras** con el porcentaje de personas que reciben rec
 El diseño del archivo permite el uso eficiente de funciones de Excel como:
 
 - `CONTAR.SI` para conteos automáticos por curso, temática o periodo.
-- `BUSCARH` / `XLOOKUP` para vincular información entre hojas sin duplicar datos.
+- `BUSCARX` / `XLOOKUP` para vincular información entre hojas sin duplicar datos.
 - Cálculo automático de porcentajes y métricas agregadas.
 
 Esto reduce errores manuales y mejora la trazabilidad del análisis.
