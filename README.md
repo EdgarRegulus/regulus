@@ -1,4 +1,4 @@
-# CASO DE ÉXITO: Base de datos del proyecto educativo Regulus Divulgación (ejemplo anonimizando)
+# CASO DE ÉXITO: Base de datos del proyecto Regulus Divulgación (ejemplo anonimizando)
 
 ## Contexto
 **Regulus Divulgación** es un proyecto personal de divulgación científica creado en **julio de 2024**, enfocado principalmente en **talleres en línea de matemáticas y astronomía**. Desde su creación, ha impartido **talleres de forma mensual hasta la actualidad**, con el objetivo de acercar el conocimiento científico a públicos diversos, fomentar el pensamiento crítico y vocaciones científicas a jóvenes estudiantes. Se busca que aprender sea una experiencia cercana, clara y estimulante.
